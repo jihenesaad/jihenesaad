@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jihene Saad 👋. I'm a passionate Software Engineer 💻 with experience in full-stack development. I enjoy building scalable applications ⚙️, exploring new technologies 🚀, and I’m always eager to learn and grow professionally 📚. On GitHub, you’ll find some of my projects 📂.
+Hi, I'm Jihene Saad 👋. I'm a passionate Software Engineer 💻 with hands-on experience in full-stack development. I enjoy building scalable applications ⚙️, exploring new technologies 🚀, and I’m always eager to learn and grow professionally 📚. On GitHub, you’ll find some of my projects 📂.
 
 
 ## 🌐 Socials:
