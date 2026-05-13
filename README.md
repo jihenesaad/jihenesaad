@@ -12,8 +12,6 @@ I’m particularly interested in clean architecture, clean code practices, and b
 
 On GitHub, you’ll find projects that reflect my learning journey, experiments, and practical applications 📂.
 
----
-
 ## 🌐 Socials
 
 <p align="left">
@@ -22,8 +20,6 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
   </a>
 </p>
 
----
-
 ## 📫 Contact
 
 <p align="left">
@@ -31,8 +27,6 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
     <img src="https://img.shields.io/badge/email-jihenesaad21%40gmail.com-1f6feb?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
 </p>
-
----
 
 ## 💻 Technical Stack
 
@@ -44,9 +38,6 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
----
-
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,8 +45,6 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
 
 ### ⚙️ Backend
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -65,14 +54,10 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
 
 ### 🛠 DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,8 +69,6 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
----
-
 ### 📊 Monitoring 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -93,12 +76,9 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ### 🎯 Project Management 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-
 
 ### 🎯 Design 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
