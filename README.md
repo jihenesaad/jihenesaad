@@ -34,7 +34,7 @@ On GitHub, you’ll find projects that reflect my learning journey, experiments,
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Stack
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
